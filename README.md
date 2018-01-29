@@ -1,11 +1,11 @@
 # assignment-3
 
-* HELLO WORLD
+* Stephen Glass
 
 
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: selfie.png
 
-2. Tell me something interesting about yourself
+2. I enjoy cooking Asian food and playing RuneScape.
